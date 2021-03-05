@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9kmsfb8y0w64olax?svg=true)](https://ci.appveyor.com/project/Bogdmoen/aqa-2-1)
